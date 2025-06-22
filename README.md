@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavbari&show_icons=true&theme=radical" alt="vaibhavbari stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbari&layout=compact&theme=radical" alt="vaibhavbari languages" />
-</p>
-
----
-
 ## 🚀 Featured Projects:
 
 ### 📌 XGRIP Sales & Profit Analytics Executive Dashboard (Power BI)
