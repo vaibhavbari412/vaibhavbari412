@@ -11,7 +11,7 @@
 ## 💫 About Me:
 - 🔭 Currently working as a **Data Analyst**, transforming data into actionable insights.
 - 🌱 I’m currently expanding my skills in **Advanced Power BI**, **DAX**, and **Azure Data Tools**.
-- 👨‍💻 All my SQL and Power BI projects are available here on **[My GitHub](https://github.com/vaibhavbari)**.
+- 👨‍💻 All my SQL and Power BI projects are available here on **[My GitHub](https://github.com/vaibhavbari412)**.
 - 💬 Ask me about **SQL, Power BI, SSIS, ETL, Control-M, and Data Visualization**.
 - 📫 Reach me at: **vaibhavbari412@gmail.com**
 - 📄 Know about my experiences in **[My Resume](./Data%20Analyst%20Resume.pdf)**
@@ -37,7 +37,7 @@ An interactive executive dashboard built in Power BI analyzing Sales & Profit KP
 - Automated refresh using Power BI Gateway.
 - Provided deep insights into Sales, Profitability, and Product Performance.
 
-🔗 **Project Link:** [XGRIP Sales Dashboard](https://github.com/vaibhavbari/XGRIP-Sales-Dashboard) *(example)*
+🔗 **Project Link:** [XGRIP Sales Dashboard](https://github.com/vaibhavbari412/XGRIP) *(example)*
 
 ---
 
@@ -56,7 +56,7 @@ Collection of 30+ SQL problems solving real-world business scenarios covering:
 - Rank products by sales per store.
 - Identify top revenue-generating stores.
 
-🔗 **Repository Link:** [SQL Practice](https://github.com/vaibhavbari/SQL-Practice) *(example)*
+🔗 **Repository Link:** [SQL Practice](https://github.com/vaibhavbari412/Swiggy) *(example)*
 
 ---
 
